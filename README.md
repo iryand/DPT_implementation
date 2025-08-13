@@ -1,4 +1,4 @@
-# ABXI-PyTorch
+# DPT-PyTorch
 
 This is the ***official*** Pytorch implementation of paper "DPT: Dynamic Preference Transfer for Cross-Domain Sequential Recommendation" accepted by CIKM 2025 conference (CIKM'25).
 
